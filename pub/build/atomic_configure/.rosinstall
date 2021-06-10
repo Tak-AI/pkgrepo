@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/hklab6380/ros_ws/pub/build/devel/setup.sh
