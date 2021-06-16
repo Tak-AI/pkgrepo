@@ -1,0 +1,14 @@
+<package>
+  <description brief="pub_melodic">
+
+     pub_melodic
+
+  </description>
+  <author>hklab6380</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/pub_melodic</url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+
+</package>

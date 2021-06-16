@@ -23,4 +23,3 @@ if __name__ == '__main__':
         talker2()
     except rospy.ROSInterruptException:
         pass
-    

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/hklab6380/ros_ws/pkg/pub_melodic/build/devel/setup.sh
