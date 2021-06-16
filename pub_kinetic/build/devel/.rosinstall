@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ayg/ros_ws/pkgrepo/pub_kinetic/build/devel/setup.sh

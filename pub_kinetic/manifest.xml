@@ -1,0 +1,16 @@
+<package>
+  <description brief="pub_kinetic">
+
+     pub_kinetic
+
+  </description>
+  <author>AY group</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/pub_kinetic</url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+
+</package>
+
+
