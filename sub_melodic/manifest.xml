@@ -1,0 +1,14 @@
+<package>
+  <description brief="sub_melodic">
+
+     sub_melodic
+
+  </description>
+  <author>hklab6380</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/sub_melodic</url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+
+</package>
